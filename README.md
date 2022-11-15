@@ -1,6 +1,6 @@
 # hatridmunsigra
 
-https://lucid.app/lucidchart/eafd9c88-8829-4536-9aa9-59befc353a9e/edit?viewport_loc=-1206%2C-352%2C3267%2C1595%2CKvJ9Q1LhBYyt&invitationId=inv_c9d6f9aa-6f87-4cc9-8769-a6d0aa5a81a2
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/eafd9c88-8829-4536-9aa9-59befc353a9e" id="1HJ9aSYBAukT"></iframe></div>
 
 
 Hei! Jeg elsker barrels of oil. Hva heter du?:))) 
