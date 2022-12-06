@@ -27,6 +27,8 @@ Gotika1325
   Моя страничка
 </a>
 
+![mermaid-diagram-2022-12-06-140534](https://user-images.githubusercontent.com/114979532/205844154-fa127e8b-37c0-4109-868a-1a80d1c55d87.png)
+
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="DARTS QUIZ" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/637335ff75e73f001196adb0" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
 
