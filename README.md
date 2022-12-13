@@ -1,3 +1,5 @@
+
+![81tZHdPYGTL _SL1500_](https://user-images.githubusercontent.com/114979532/207238345-62a555b9-6403-4243-8f21-7f1fbc5cb486.jpg)
 # hatridmunsigra
 
 Hei! Jeg elsker barrels of oil. Hva heter du?:))) 
