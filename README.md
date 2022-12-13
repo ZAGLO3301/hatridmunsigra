@@ -1,5 +1,8 @@
 
 ![81tZHdPYGTL _SL1500_](https://user-images.githubusercontent.com/114979532/207238345-62a555b9-6403-4243-8f21-7f1fbc5cb486.jpg)
+
+<iframe  frameborder="no" scrolling="no" width="280" height="150" src="https://yandex.ru/time/widget/?geoid=67&lang=ru&layout=horiz&type=analog&face=minimal"></iframe>
+
 # hatridmunsigra
 
 Hei! Jeg elsker barrels of oil. Hva heter du?:))) 
